@@ -22,6 +22,8 @@ git clone URL
 
 notepad README.md
 
+code README.md
+
 
 
 ### Git commandos

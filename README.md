@@ -1,18 +1,16 @@
 # M1Skill\_Github
 
-Alle mappen met de opdrachten voor de Skill Github
+## Alle mappen met de opdrachten voor de Skill Github
 
-
-
-Remote Repository opdracht gemaakt op 17.9.2025
-
+## Remote Repository opdracht gemaakt op 17.9.2025
 
 
 
 
 
 
-\# Lokaal klonen commandos
+
+### Lokaal klonen commandos
 
 ga naar de GitHub Folder,
 
@@ -20,13 +18,15 @@ git clone URL
 
 
 
-\# Files(README) bewerken
+### Files(README) bewerken
 
 notepad README.md
 
 
 
-\# Status, stage, commit, push
+### Git commandos
+
+gitk (belangrijk, lokaal visual interface)
 
 git status
 

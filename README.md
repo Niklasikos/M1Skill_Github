@@ -2,7 +2,6 @@
 
 ## Alle mappen met de opdrachten voor de Skill Github
 
-## Remote Repository opdracht gemaakt op 17.9.2025
 
 
 
@@ -38,3 +37,6 @@ git commit -m "(updates van de files sammengevat)"
 
 git push            # of: git push -u origin main (eerste keer)
 
+
+
+## Remote Repository opdracht gemaakt op 17.9.2025

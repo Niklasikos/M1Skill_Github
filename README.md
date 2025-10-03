@@ -8,9 +8,9 @@ Een remote repository aanmaken:
 * om het repository te clonen klik op code in jouw remote repository en dan bij https copy de link
 * ga dan in een map op jouw computer een open een terminal een schrijf dit daar in `git clone (link)`
 
-![afbeelding met het plus](/Les5/images/Schermafbeelding%202025-09-27%20215422.png)
-![afbeelding met het het repository maken](/Les5/images/Schermafbeelding%202025-09-27%20215443.png)
-![afbeelding met de clone link](/Les5/images/Schermafbeelding%202025-09-27%20215524.png)
+![afbeelding met het plus](/Les4/images/Schermafbeelding%202025-09-27%20215422.png)
+![afbeelding met het het repository maken](/Les4/images/Schermafbeelding%202025-09-27%20215443.png)
+![afbeelding met de clone link](/Les4/images/Schermafbeelding%202025-09-27%20215524.png)
 
 
 ## Onderdelen
